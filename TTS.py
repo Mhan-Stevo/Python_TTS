@@ -3,7 +3,7 @@ from tkinter import messagebox, filedialog
 import pyttsx3
 import threading
 
-# Appearance settings
+# Appearance settings for the UI
 ctk.set_appearance_mode("Dark")
 ctk.set_default_color_theme("blue")
 
